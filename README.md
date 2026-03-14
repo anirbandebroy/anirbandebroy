@@ -1,5 +1,3 @@
-
-```markdown
 # Hi, I'm Anirban Debroy 👋
 
 **Senior Mobile & Backend Engineer — .NET MAUI | C# | Azure**
@@ -12,16 +10,11 @@
 
 ## 🚀 About Me
 
-Senior Mobile & Backend Engineer with **14+ years** delivering production-grade,
-cross-platform mobile applications and cloud-backed systems for **Fortune 500
-companies**, global infrastructure firms, and government municipalities.
+Senior Mobile & Backend Engineer with **14+ years** delivering production-grade, cross-platform mobile applications and cloud-backed systems for **Fortune 500 companies**, global infrastructure firms, and government municipalities.
 
-Deep expertise in **.NET MAUI** and **Xamarin**, including leading enterprise-scale
-**Xamarin → .NET MAUI migrations** across large, long-lived codebases.
+Deep expertise in **.NET MAUI** and **Xamarin**, including leading enterprise-scale **Xamarin → .NET MAUI migrations** across large, long-lived codebases.
 
-Experienced in building secure, scalable **REST APIs and backend services on Azure**
-with strong focus on offline-first architectures, observability, and end-to-end
-delivery ownership.
+Experienced in building secure, scalable **REST APIs and backend services on Azure** with strong focus on offline-first architectures, observability, and end-to-end delivery ownership.
 
 ---
 
@@ -29,10 +22,10 @@ delivery ownership.
 
 | App | Client | Platforms | Highlights |
 |-----|--------|-----------|------------|
-| **CitizenVUE** | AtkinsRéalis / VUEWorks | 🟢 Play Store · 🍎 App Store · 🪟 Microsoft Store | Civic issue reporting for municipalities, ArcGIS SDK, offline-first |
-| **WorkforceVUE** | AtkinsRéalis / VUEWorks | 🟢 Play Store · 🍎 App Store · 🪟 Microsoft Store | Field work order management, offline sync, dynamic inspection forms |
-| **PTS Mobile App** | Parker Hannifin (Fortune 500) | 🟢 Play Store · 🍎 App Store | Barcode scanning, service history, hydraulic reorder workflows |
-| **TIM Smart Kid** | TIM Telecom Italy | 📺 Region-locked TIM Portfolio | Children's platform, Nickelodeon content, parental controls |
+| **CitizenVUE** | AtkinsRéalis / VUEWorks | 🟢 Play Store · 🍎 App Store · 🪟 Microsoft Store | Civic issue reporting, ArcGIS SDK, offline-first |
+| **WorkforceVUE** | AtkinsRéalis / VUEWorks | 🟢 Play Store · 🍎 App Store · 🪟 Microsoft Store | Field work order management, offline sync |
+| **PTS Mobile App** | Parker Hannifin (Fortune 500) | 🟢 Play Store · 🍎 App Store | Barcode scanning, service history, reorder workflows |
+| **TIM Smart Kid** | TIM Telecom Italy | 📺 TIM Portfolio | Children's platform, Nickelodeon content, parental controls |
 | **ASSIST** | Infrastructure & HSE | 🍎 App Store | Mobile inspections, GPS capture, audit-ready reports |
 
 ---
@@ -59,14 +52,15 @@ delivery ownership.
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Experience
 
-```
-AtkinsRéalis      Feb 2018 – Present   Group Software Engineer (Remote)
-Accenture         Jun 2015 – Jan 2018  Senior Analyst, Bengaluru
-Centillion        Mar 2014 – May 2015  Software Engineer, Bengaluru
-E-Celtic          Jul 2013 – Feb 2014  Software Engineer, Kolkata
-```
+| Company | Period | Role |
+|---------|--------|------|
+| AtkinsRéalis | Feb 2018 – Present | Group Software Engineer (Remote) |
+| Accenture | Jun 2015 – Jan 2018 | Senior Analyst, Bengaluru |
+| Centillion | Mar 2014 – May 2015 | Software Engineer, Bengaluru |
+| E-Celtic | Jul 2013 – Feb 2014 | Software Engineer, Kolkata |
+| Confidential | Sep 2011 – June 2014 | Consultant, Kolkata |
 
 ---
 
@@ -74,4 +68,3 @@ E-Celtic          Jul 2013 – Feb 2014  Software Engineer, Kolkata
 
 **B.Tech — Information Technology**  
 West Bengal University of Technology, Durgapur · 2006–2010
-```
