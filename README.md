@@ -1,6 +1,3 @@
-Here's your GitHub profile README — just copy-paste this directly! 💙
-
-***
 
 ```markdown
 # Hi, I'm Anirban Debroy 👋
@@ -78,24 +75,3 @@ E-Celtic          Jul 2013 – Feb 2014  Software Engineer, Kolkata
 **B.Tech — Information Technology**  
 West Bengal University of Technology, Durgapur · 2006–2010
 ```
-
-***
-
-## How to Create This on GitHub
-
-```
-Step 1 → Go to github.com
-Step 2 → Click "New repository"
-Step 3 → Repository name = "anirbandebroy"
-         (MUST match your username exactly!)
-Step 4 → Tick "Add a README file" ✅
-Step 5 → Click "Create repository"
-Step 6 → Click the pencil ✏️ to edit README
-Step 7 → Delete everything, paste the above
-Step 8 → Click "Commit changes"
-Step 9 → Done! Visit github.com/anirbandebroy ✅
-
-Takes 5 minutes total 🎯
-```
-
-**The badges will auto-render as coloured icons, the table will show your shipped apps cleanly, and any hiring manager who visits your GitHub will immediately see a senior professional — not an empty profile.** 💙🔥
