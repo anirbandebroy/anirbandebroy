@@ -66,7 +66,7 @@ Known for leading enterprise-scale **Xamarin → .NET MAUI migrations** across l
 | **Accenture** | Senior Analyst | Jun 2015 – Jan 2018 |
 | **Centillion Solutions** | Software Engineer | Mar 2014 – May 2015 |
 | **E-Celtic Consulting** | Software Engineer | Jul 2013 – Feb 2014 |
-| **K Software solution ** | Freelancer | Sep 2011 – June 2013 |
+| **K Software solution** | Freelancer | Sep 2011 – June 2013 |
 
 ---
 
