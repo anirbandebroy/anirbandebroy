@@ -28,7 +28,7 @@ Known for leading enterprise-scale **Xamarin → .NET MAUI migrations** across l
 | **PTS Mobile App** | Parker Hannifin (Fortune 500) | 🟢 Play Store · 🍎 App Store | 2023 – 2024 | Barcode scanning, service history, reorder workflows |
 | **ASSIST** | AtkinsRéalis / Infrastructure & HSE | 🍎 App Store | 2018 – 2020 | Mobile inspections, GPS capture, audit-ready reports |
 | **TIM Smart Kid** | TIM Telecom Italy | 🟢 Play Store · 🍎 App Store | 2016 – 2018 | Children's platform, Nickelodeon content, parental controls |
-| **IRIS REX Offline** | Boston Scientific | 🏥 Enterprise Internal | 2024 – 2025 | Medical equipment inventory, offline-first, Salesforce sync, UI automation testing |
+| **IRIS REX Offline** | Boston Scientific | 🏥 Enterprise Internal | 2024 – 2026 | Medical equipment inventory, offline-first, Salesforce sync, UI automation testing |
 
 ---
 
