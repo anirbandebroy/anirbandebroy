@@ -10,13 +10,9 @@
 
 ## 🚀 About Me
 
-Senior Mobile & Backend Engineer with **14+ years** delivering production-grade, cross-platform applications and cloud-backed systems for **Fortune 500 companies** (Parker Hannifin, TIM Telecom Italy), global infrastructure firms, and government municipalities across the **US and Europe**.
+Senior Mobile & Backend Engineer with 13+ years architecting and delivering production-grade, cross-platform applications and cloud-backed systems for Fortune 500 and global enterprise clients across the US and Europe — including Parker Hannifin, TIM Telecom Italy, and AtkinsRéalis. Owns the full mobile-to-cloud stack: defining architecture strategy and delivering .NET MAUI / Xamarin mobile clients alongside the ASP.NET Core APIs, Azure Functions, Service Bus pipelines, and cloud infrastructure that power them end-to-end — acting as the single technical authority across mobile, backend, and DevOps layers.
+Led enterprise-scale Xamarin → .NET MAUI platform migrations, established architectural standards for offline-first mobile systems, API design, OAuth 2.0 / Azure AD B2C security governance, and CI/CD pipelines across distributed US and India teams. Experienced in architecture decision-making, cross-functional technical alignment, and long-term platform roadmap ownership. Shipped production apps to Google Play, App Store, and Microsoft Store. Open to 100% remote roles with US and EU clients, comfortable with EST, CET, and GMT overlap, and flexible with engagement models.
 
-Uniquely positioned across the full stack — deep expertise in **.NET MAUI, Blazor Hybrid, and WinUI 3** for cross-platform client delivery, combined with strong ownership of **Azure-based REST APIs, microservices, and cloud infrastructure** end-to-end.
-
-**Technical Lead** across 4 enterprise projects — leading distributed US and India teams, conducting design reviews, defining API contracts, and owning delivery from architecture through production deployment.
-
-Known for leading enterprise-scale **Xamarin → .NET MAUI migrations** across large, long-lived codebases, and for building **offline-first mobile systems** for field teams operating in zero-connectivity environments.
 
 ---
 
