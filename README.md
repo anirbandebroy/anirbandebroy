@@ -1,6 +1,6 @@
 # Hi, I'm Anirban Debroy 👋
 
-**Senior Mobile & Backend Engineer — .NET MAUI | Blazor Hybrid | WinUI 3 | C# | Azure**  
+**Senior .NET Engineer / Tech Lead — .NET MAUI | Blazor Hybrid | WinUI 3 | C# | Azure**  
 📍 Kolkata, India · Open to 100% Remote Roles (US/EU timezone overlap)  
 💼 Open to remote contract engagements — B2B, C2C, or 1099  
 📧 anirban.debroy@hotmail.com  
