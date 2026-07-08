@@ -10,11 +10,14 @@
 
 ## About Me
 
-Senior .NET Engineer and Tech Lead with 13+ years architecting and delivering end-to-end mobile and cloud-backed systems for Fortune 500 and global enterprise clients — including Parker Hannifin, Boston Scientific, and TIM Telecom Italy. Defines architecture strategy and owns full delivery across .NET MAUI / Xamarin mobile clients, ASP.NET Core backends, and Azure infrastructure — acting as primary technical authority across mobile, backend, and DevOps layers.
+**Senior .NET Tech Lead** with **13+ years** of experience architecting and delivering enterprise-grade .NET applications, cloud platforms, APIs, and cross-platform mobile solutions for Fortune 500 and global organizations, including **Parker Hannifin, Boston Scientific, AtkinsRéalis, and TIM Telecom Italy**. Leads end-to-end solution delivery across **ASP.NET Core, .NET MAUI/Xamarin, Azure, REST APIs, SQL Server**, and modern DevOps practices, serving as the technical authority from architecture through production deployment.
 
-Led enterprise-scale Xamarin → .NET MAUI platform migrations, designed offline-first mobile architectures, and established Azure backend and CI/CD standards across distributed US and India teams. Experienced in architecture decision-making, cross-functional technical alignment, and long-term platform roadmap ownership. Shipped production apps to Google Play, App Store, and Microsoft Store.
+Experienced in designing scalable distributed systems, defining technical strategy, leading enterprise Xamarin to .NET MAUI modernization initiatives, and establishing Azure cloud architecture, API-first development, and CI/CD standards across globally distributed engineering teams. Partners closely with product owners, architects, and engineering leadership to drive technical decisions, mentor developers, improve engineering quality, and deliver secure, maintainable, and high-performance software platforms.
 
-Open to 100% remote roles with US and EU clients — comfortable with EST, CET, and GMT overlap, and flexible with engagement models.
+Proven track record of shipping enterprise solutions to **Google Play, Apple App Store, Microsoft Store**, and Azure-hosted production environments while maintaining a strong focus on software architecture, cloud-native development, DevOps automation, and long-term platform evolution.
+
+Open to **100% remote Senior .NET Tech Lead, Technical Lead, Solution Architect, or Staff Engineer** opportunities with US and EU organizations. Comfortable collaborating across **EST, CET, and GMT** time zones and flexible with permanent, contract, or C2C engagements.
+
 
 ---
 
