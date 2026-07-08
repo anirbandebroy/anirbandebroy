@@ -20,13 +20,13 @@ Open to 100% remote roles with US and EU clients — comfortable with EST, CET, 
 
 ## Shipped Production Apps
 
-| App | Client | Platforms | Period | Highlights |
-|-----|--------|-----------|--------|------------|
-| **CitizenVUE & WorkforceVUE** | AtkinsRéalis / VUEWorks | 🟢 Play Store · 🍎 App Store · 🪟 Microsoft Store | 2020 – 2026 | Field work order management, ArcGIS SDK, offline-first sync, WinUI 3, Azure, WebAPI |
-| **IRIS REX Offline** | Boston Scientific | 🏥 Enterprise Internal | 2024 – 2026 | Medical equipment inventory, offline-first, Realm persistence, Salesforce sync, UI automation testing |
-| **PTS Mobile App** | Parker Hannifin (Fortune 500) | 🟢 Play Store · 🍎 App Store | 2023 – 2024 | Barcode scanning, service history, reorder workflows, offline SQLite caching, Azure, WebAPI |
-| **ASSIST** | AtkinsRéalis / Infrastructure & HSE | 🍎 App Store | 2018 – 2020 | Mobile inspections, GPS-tagged photo capture, audit-ready PDF reports, Azure, WebAPI |
-| **TIM Smart Kid** | TIM Telecom Italy | 🟢 Play Store · 🍎 App Store | 2016 – 2018 | Children's platform, Nickelodeon content, parental controls, OAuth-secured content APIs |
+| App | Client | Platforms & Tech | Period | Highlights |
+|-----|--------|------------------|--------|------------|
+| **CitizenVUE & WorkforceVUE** | AtkinsRéalis / VUEWorks | 🟢 Play Store · 🍎 App Store · 🪟 Microsoft Store · ☁️ Azure · 🌐 WebAPI · 🚀 CI/CD | 2020 – 2026 | Field work order management, ArcGIS SDK, offline-first sync, WinUI 3, Azure App Services, REST APIs, Azure DevOps CI/CD |
+| **IRIS REX Offline** | Boston Scientific | 🏥 Enterprise Internal · ☁️ Azure · 🌐 WebAPI · 🚀 CI/CD | 2024 – 2026 | Medical equipment inventory, offline-first, Realm persistence, Salesforce sync, UI automation testing, Azure, REST APIs |
+| **PTS Mobile App** | Parker Hannifin (Fortune 500) | 🟢 Play Store · 🍎 App Store · ☁️ Azure · 🌐 WebAPI · 🚀 CI/CD | 2023 – 2024 | Barcode scanning, service history, reorder workflows, offline SQLite caching, Azure App Services, REST APIs |
+| **ASSIST** | AtkinsRéalis / Infrastructure & HSE | 🍎 App Store · ☁️ Azure · 🌐 WebAPI · 🚀 CI/CD | 2018 – 2020 | Mobile inspections, GPS-tagged photo capture, audit-ready PDF reports, Azure, REST APIs |
+| **TIM Smart Kid** | TIM Telecom Italy | 🟢 Play Store · 🍎 App Store · 🌐 WebAPI · 🚀 CI/CD | 2016 – 2018 | Children's platform, Nickelodeon content, parental controls, OAuth-secured content APIs, REST APIs |
 
 ---
 
