@@ -10,7 +10,7 @@
 
 ## About Me
 
-**Senior .NET Tech Lead** with **13+ years** of experience architecting and delivering enterprise-grade .NET applications, cloud platforms, APIs, and cross-platform mobile solutions for Fortune 500 and global organizations, including **Parker Hannifin, Boston Scientific, AtkinsRéalis, and TIM Telecom Italy**. Leads end-to-end solution delivery across **ASP.NET Core, .NET MAUI/Xamarin, Azure, REST APIs, SQL Server**, and modern DevOps practices, serving as the technical authority from architecture through production deployment.
+**Senior .NET Tech Lead** with **14+ years** of experience architecting and delivering enterprise-grade .NET applications, cloud platforms, APIs, and cross-platform mobile solutions for Fortune 500 and global organizations, including **Parker Hannifin, Boston Scientific, AtkinsRéalis, and TIM Telecom Italy**. Leads end-to-end solution delivery across **ASP.NET Core, .NET MAUI/Xamarin, Azure, REST APIs, SQL Server**, and modern DevOps practices, serving as the technical authority from architecture through production deployment.
 
 Experienced in designing scalable distributed systems, defining technical strategy, leading enterprise Xamarin to .NET MAUI modernization initiatives, and establishing Azure cloud architecture, API-first development, and CI/CD standards across globally distributed engineering teams. Partners closely with product owners, architects, and engineering leadership to drive technical decisions, mentor developers, improve engineering quality, and deliver secure, maintainable, and high-performance software platforms.
 
